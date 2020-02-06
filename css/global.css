@@ -50,7 +50,7 @@ section {
 }
 
 section.full {
-  background-image: url('../image/ELSA.jpg');
+  background-image: url('../image/nana.jpg');
   background-size: cover;
   background-position: top left;
   background-repeat: no-repeat;
@@ -80,7 +80,7 @@ section .melayang {
 }
 
 section.fun {
-  background-image: url('../image/ELSA.jpg');
+  background-image: url('../image/nana.jpg');
   background-size: cover;
   background-position: top left;
   background-repeat: no-repeat;
@@ -111,7 +111,7 @@ section .terbang {
 
 
 section.funny {
-  background-image: url('../image/ELSA.jpg');
+  background-image: url('../image/nana.jpg');
   background-size: cover;
   background-position: top left;
   background-repeat: no-repeat;
